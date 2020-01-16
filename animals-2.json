@@ -1,7 +1,7 @@
 [
   {
     "name": "file",
-    "species" : "alex",
+    "species" : "<div class = 'hello'>test</div>",
     "foods": {
       "likes": ["tuna", "catnip"],
       "dislikes": ["ham", "zucchini"]
