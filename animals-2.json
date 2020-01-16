@@ -1,6 +1,6 @@
 [
   {
-    "name": "<i class = "fa fa-folder"></i>",
+    "name": "file",
     "species" : "cat",
     "foods": {
       "likes": ["tuna", "catnip"],
