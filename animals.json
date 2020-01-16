@@ -1,6 +1,6 @@
 [
   {
-    "name": "<h1>hello</h1>",
+    "name": "hello",
     "species" : "cat",
     "foods": {
       "likes": ["tuna", "catnip"],
