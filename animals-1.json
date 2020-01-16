@@ -1,7 +1,123 @@
 [
   {
     "name": "file",
-    "species" : "<img src = 'https://demo.lytrod.com/wp-content/uploads/2020/01/computer-2-1-150x150-1.png'>",
+    "species" : " <div class="container container-two">
+            <div class="row">
+                <div class="col-xl-8 offset-xl-2">
+                    <div class="table-responsive">
+                        <table class="table">
+                            <thead>
+                                <tr></tr>
+                            </thead>
+                            <tbody>
+                                <tr class="d-xl-flex"></tr>
+                                <tr class="d-xl-flex"></tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_BentaMultipiece_FuneralHome_11.2x8.7_prime_2pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_BentaMultipiece_FuneralHome_11.2x8.7_prime_2pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_BentaMultipiece_FuneralHome_11.2x8.7_velocity_2pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_BentaMultipiece_FuneralHome_11.2x8.7_velocity_2pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_BentaMultipiece_FuneralHome_11.2x8.7_velocity_4pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_BentaMultipiece_FuneralHome_11.2x8.7_velocity_4pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_BentaMultipiece_FuneralHome_prime_4pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_BentaMultipiece_FuneralHome_prime_4pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_BrochureswitCreaseIntellicut_11x17_prime_2pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_BrochureswitCreaseIntellicut_11x17_prime_2pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_BrochureswitCreaseIntellicut_11x17_velocity_2pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_BrochureswitCreaseIntellicut_11x17_velocity_2pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_BrochureswitCreaseVRCut_11x17_prime_2pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_BrochureswitCreaseVRCut_11x17_prime_2pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_BrochureswitCreaseVRCut_11x17_velocity_2pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_BrochureswitCreaseVRCut_11x17_velocity_2pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_ChicagoBeerFestTickets_9.25x7.25_prime_1page.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_ChicagoBeerFestTickets_9.25x7.25_prime_1page.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_ChicagoBeerFestTickets_9.25x7.25_velocity_1page.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_ChicagoBeerFestTickets_9.25x7.25_velocity_1page.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_FaithBasedNewsletterFlyer_8.5x11_prime_2pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_FaithBasedNewsletterFlyer_8.5x11_prime_2pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_FaithBasedNewsletterFlyer_8.5x11_velocity_2pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_FaithBasedNewsletterFlyer_8.5x11_velocity_2pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_FaithBasedPostcard_5x7_prime_2pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_FaithBasedPostcard_5x7_prime_2pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_FaithBasedPostcard_5x7_velocity_2pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_FaithBasedPostcard_5x7_velocity_2pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_LytrodBusinessCardswithBleed_2x3.5_prime_1page.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_LytrodBusinessCardswithBleed_2x3.5_prime_1page.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_LytrodBusinessCardswithBleed_2x3.5_velocity_1page.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_LytrodBusinessCardswithBleed_2x3.5_velocity_1page.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_RealtyJustSoldPostcard_5x7_prime_10pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_RealtyJustSoldPostcard_5x7_prime_10pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_RealtyJustSoldPostcard_5x7_velocity_10pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_RealtyJustSoldPostcard_5x7_velocity_10pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_RealtyNeighborhoodPostcard_4x6_prime_2pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_RealtyNeighborhoodPostcard_4x6_prime_2pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_RealtyNeighborhoodPostcard_4x6_velocity_2pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_RealtyNeighborhoodPostcard_4x6_velocity_2pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_RealtyOpenHousePostcard_5.5x8.5_prime_2pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_RealtyOpenHousePostcard_5.5x8.5_prime_2pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_RealtyOpenHousePostcard_5.5x8.5_velocity_2pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_RealtyOpenHousePostcard_5.5x8.5_velocity_2pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_RealtyTentBusinessCard_3.5x4_prime_2pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_RealtyTentBusinessCard_3.5x4_prime_2pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_RealtyTentBusinessCard_3.5x4_velocity_2pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_RealtyTentBusinessCard_3.5x4_velocity_2pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_UniversityAthleticTicketWithPerf_2x5.5_prime_2pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_UniversityAthleticTicketWithPerf_2x5.5_prime_2pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_UniversityAthleticTicketWithPerf_2x5.5_velocity_2pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_UniversityAthleticTicketWithPerf_2x5.5_velocity_2pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_UniversityBusinessCards_2x3.5_prime_2pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_UniversityBusinessCards_2x3.5_prime_2pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_UniversityBusinessCards_2x3.5_velocity_2pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_UniversityBusinessCards_2x3.5_velocity_2pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_UniversityRecruitmentLetter_8.5x11_prime_2pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_UniversityRecruitmentLetter_8.5x11_prime_2pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_UniversityRecruitmentLetter_8.5x11_velocity_2pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_UniversityRecruitmentLetter_8.5x11_velocity_2pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_UniversityRecruitmentPostcard_4x6_prime_18pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_UniversityRecruitmentPostcard_4x6_prime_18pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a class="d-xl-flex align-items-xl-center" href="/showcase/downloads/12X18/12x18_UniversityRecruitmentPostcard_4x6_velocity_18pages.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i>12x18_UniversityRecruitmentPostcard_4x6_velocity_18pages.pdf</a></td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>",
     "foods": {
       "likes": ["tuna", "catnip"],
       "dislikes": ["ham", "zucchini"]
