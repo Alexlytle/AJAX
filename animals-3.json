@@ -1,7 +1,7 @@
 [
   {
-    "name": "file",
-    "species" :"<img src = 'https://demo.lytrod.com/wp-content/uploads/2020/01/computer-2-1-150x150-1.png'>",
+    "name": "Meowsy",
+    "species" : "cat",
     "foods": {
       "likes": ["tuna", "catnip"],
       "dislikes": ["ham", "zucchini"]
